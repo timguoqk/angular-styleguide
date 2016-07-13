@@ -2831,7 +2831,7 @@ Unit testing helps maintain clean code, as such I included some of my recommenda
 ### Use an Options File
 ###### [Style [Y235](#style-y235)]
 
-  - Use JSCS for checking your coding styles your JavaScript and be sure to customize the JSCS options file and include in source control. See the [JSCS docs](http://jscs.info/) for details on the options.
+  - Use JSCS for checking your JavaScript coding style and be sure to customize the JSCS options file and include in source control. See the [JSCS docs](http://jscs.info/) for details on the options.
 
     *Why?*: Provides a first alert prior to committing any code to source control.
 
